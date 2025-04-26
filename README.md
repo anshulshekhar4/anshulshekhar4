@@ -1,5 +1,5 @@
 # Hello, I'm Anshul Shekhar! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Full-Stack+Developer;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Passionate+Engineer;Full-Stack+Developer;AI+Tech+Explorer)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me:
 - 🔭 Currently Working On: Product Development
