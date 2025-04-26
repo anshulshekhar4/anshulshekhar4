@@ -6,7 +6,7 @@
 - 🎓 Pursuing BTech: ABES Institute of Technology (ABESIT)
 - 🌱 Learning: Flutter, Dart, Full-stack Development
 - 💬 Ask Me About: Java, C, Python, Flutter, Dart, HTML, CSS, JavaScript, MySQL
-- ⚡ Fun Fact: *"Coding can die but engineering lives forever."*
+- ⚡ Fact: *"Coding can die but engineering lives forever."*
 
 ## 📧 Reach Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anshul-shekhar-/)
